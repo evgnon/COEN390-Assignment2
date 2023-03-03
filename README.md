@@ -1,16 +1,5 @@
-# a_2
+# COEN390-Assignment 2
 
-A new Flutter project.
+This is my submission for COEN390-Assignment2 since it was too big to send via Moodle. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The assignment was written in Flutter and can be run on both VSCode and Android Studio.
